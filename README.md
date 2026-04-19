@@ -1,25 +1,33 @@
 # Ahmad Salama
 
-Data Analyst & System Analyst (MIS graduate) focused on building practical data products that help teams make better decisions.
+Data Analyst & System Analyst  
+Building data-driven systems and AI-powered dashboards that turn raw data into decisions
 
 ---
 
 ## About Me
+I’m Ahmad Salama, working at the intersection of data, technology, execution and business.
 
-I work at the intersection of analysis, product thinking, and implementation.  
-My focus is turning raw data into clear dashboards, measurable KPIs, and tools people can actually use in daily operations.
+
+I build with C, C++, JavaScript, and React, focusing on data driven systems, dashboards, and turning raw numbers into clear decisions. I’m especially interested in how data flows through systems and how it can be structured, analyzed, and visualized to actually mean something.
+
+
+Most of what I know comes from building, breaking, and figuring things out fast. I spend my time improving how I think, how I solve problems, and how I turn ideas into something real.
+
+
+I care about clarity, efficiency, and building things that aren’t just functional but useful.
 
 ## What I Do
 
-- Design and build performance dashboards for real business and academic use cases
-- Define KPI systems that track outcomes, not just activity
-- Build analysis workflows that include forecasting and risk signals
-- Integrate AI features to make insights easier to access for non-technical users
+- Design and build data-driven dashboards for real business use cases  
+- Analyze datasets to extract actionable insights and trends  
+- Build full-stack tools that connect data, logic, and user experience  
+- Translate business needs into technical systems and workflows  
 
 ## Featured Projects
 
 ### UniPilot
-A student performance intelligence platform built around GPA/CGPA tracking across different university grading systems.
+A full-stack academic analytics system for GPA tracking, forecasting, and performance insights across different grading systems.
 
 - Unified GPA/CGPA engine with multi-university support
 - Performance dashboard for semester-level and cumulative tracking
@@ -27,7 +35,7 @@ A student performance intelligence platform built around GPA/CGPA tracking acros
 - Early risk detection for courses that may impact graduation targets
 
 ### AS Intelligence
-An e-commerce analytics product built on a real dataset to support practical business reporting.
+An end-to-end e-commerce analytics system built on real-world data, delivering KPIs, insights, and AI-assisted analysis.
 
 - Executive dashboard covering revenue, category performance, state distribution, and trends
 - Embedded AI chatbot for quick insight retrieval
@@ -36,11 +44,23 @@ An e-commerce analytics product built on a real dataset to support practical bus
 
 ## Tech Stack
 
-**Languages & Data:** Python, SQL  
-**Frontend:** React, TypeScript, Tailwind CSS  
-**Backend & APIs:** FastAPI  
-**Databases:** MongoDB  
-**BI & Reporting:** Power BI
+**Languages:**  
+Python • SQL • JavaScript • TypeScript  
+
+**Frontend Development:**  
+React • Tailwind CSS • Responsive UI Design  
+
+**Backend & APIs:**  
+FastAPI • RESTful API Design • Data Processing  
+
+**Data & Analytics:**  
+Data Analysis • KPI Systems • Data Cleaning • Trend Analysis  
+
+**Databases:**  
+MongoDB • Aggregation Pipelines  
+
+**Tools & Platforms:**  
+Power BI • Git & GitHub • Vercel • Figma  
 
 ## Portfolio
 
